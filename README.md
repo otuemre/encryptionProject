@@ -25,6 +25,10 @@ The **Encryption Project** allows users to encrypt and decrypt text messages, se
 2. **Open in an IDE**: Import the project into IntelliJ IDEA, Eclipse, or any other Java-compatible IDE.
 3. **Run the Project**: Compile and run the main file to start encrypting and decrypting messages through the console interface.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 ## Acknowledgments
 
 The code and concepts in this project were inspired by [Bro Code](https://www.youtube.com/@BroCodez) tutorials. Special thanks to Bro Code for providing helpful resources for learning Java.
